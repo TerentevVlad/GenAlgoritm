@@ -1,0 +1,7 @@
+D:\GenAlgoritm\GeneticAlgoritm3\GeneticAlgoritm3\bin\Debug\GeneticAlgoritm3.exe.config
+D:\GenAlgoritm\GeneticAlgoritm3\GeneticAlgoritm3\bin\Debug\GeneticAlgoritm3.exe
+D:\GenAlgoritm\GeneticAlgoritm3\GeneticAlgoritm3\bin\Debug\GeneticAlgoritm3.pdb
+D:\GenAlgoritm\GeneticAlgoritm3\GeneticAlgoritm3\obj\Debug\GeneticAlgoritm3.csprojAssemblyReference.cache
+D:\GenAlgoritm\GeneticAlgoritm3\GeneticAlgoritm3\obj\Debug\GeneticAlgoritm3.csproj.CoreCompileInputs.cache
+D:\GenAlgoritm\GeneticAlgoritm3\GeneticAlgoritm3\obj\Debug\GeneticAlgoritm3.exe
+D:\GenAlgoritm\GeneticAlgoritm3\GeneticAlgoritm3\obj\Debug\GeneticAlgoritm3.pdb
